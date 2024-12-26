@@ -1,6 +1,5 @@
 import sys
 import os
-from vosk import Model, KaldiRecognizer
 import wave
 import subprocess
 import json
