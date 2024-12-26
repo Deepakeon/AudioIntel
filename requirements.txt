@@ -23,7 +23,10 @@ requests==2.32.3
 safetensors==0.4.5
 srt==3.5.3
 sympy==1.13.1
+tokenizers==0.21.0
+torch==2.5.1
 tqdm==4.67.1
+transformers==4.47.1
 typing_extensions==4.12.2
 urllib3==2.3.0
 vosk==0.3.45
